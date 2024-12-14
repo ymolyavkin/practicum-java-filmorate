@@ -8,5 +8,8 @@ import lombok.Setter;
  */
 @Getter
 @Setter
-public class Film {
+public class Item {
+    int id;
+    String name;
+
 }
